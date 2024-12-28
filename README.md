@@ -44,9 +44,13 @@ buildozer -v android debug
 
 📂 Project Structure
 daily-logger-app/
+
 │
+
 ├── main.py          # Main application code
+
 ├── daily_log.txt    # Log file (created automatically)
+
 └── README.md        # Project description
 
 📌 Example Usage
